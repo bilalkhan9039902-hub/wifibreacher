@@ -1,6 +1,10 @@
 # Airgeddon (Custom Modified Version)
 
 This repository contains a modified version of **[Airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon)**, a multi-use bash script for auditing wireless networks. 
+Before running 
+              sudo bash wifibreacher.sh
+kindly run
+              sudo bash install_requirements.sh
 
 ## Notice of Modifications
 This project is a derivative work based on Airgeddon, originally created and copyrighted by *v1s1t0r1sh3r3*. 
